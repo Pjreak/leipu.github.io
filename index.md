@@ -3,6 +3,11 @@
 
 ![demo](IMG_9453.jpeg)
 
+'''bash
+echo "hello" >> hello.txt
+'''
+
+
 
 
 
